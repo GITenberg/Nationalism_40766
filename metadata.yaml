@@ -1,0 +1,30 @@
+_repo: Nationalism_40766
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40766-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
+description: Nationalism in the West. -- Nationalism in Japan -- Nationalism in India
+  -- The sunset of the century.
+gutenberg_issued: '2012-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40766'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nationalism'
+- !lcc 'JC'
+tableOfContents: Nationalism in the West -- Nationalism in Japan -- Nationalism in
+  India -- The sunset of the century.
+title: Nationalism
+url: http://www.gutenberg.org/ebooks/40766
